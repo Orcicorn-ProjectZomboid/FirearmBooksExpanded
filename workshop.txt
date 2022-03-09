@@ -1,0 +1,18 @@
+version=1
+id=2775726413
+title=Firearm Books Expanded
+description=This mod adds in the Expert and Mastery books for Reloading and Aiming skills.
+description=
+description=Though it can be run as a stand alone modification, it is designed as a complimentary mod for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2634478805]Firearm Books[/url] which includes the Novice, Intermediate and Advanced books.
+description=
+description=The books can be found in Bookstores, Living Rooms, Crates and Gunstores.
+description=
+description=Item IDs
+description=[list]
+description=  [*] FireBook.Firearm4
+description=  [*]FireBook.Firearm5
+description=  [*]FireBook.Reloading4
+description=  [*]FireBook.Reloading5
+description=[/list]
+tags=Build 41;Items;Literature
+visibility=public

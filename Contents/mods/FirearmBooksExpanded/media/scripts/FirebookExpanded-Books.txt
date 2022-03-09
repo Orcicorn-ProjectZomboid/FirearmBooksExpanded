@@ -1,0 +1,63 @@
+module FireBook
+{
+	imports
+	{
+		Base
+	}
+
+	item Firearm4
+    {
+        NumberOfPages		=	340,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Expert Firearm Techniques,
+        Icon				=	Firearm4,
+        SkillTrained 		= 	Aiming,
+        LvlSkillTrained 	= 	7,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+
+	item Firearm5
+    {
+        NumberOfPages		=	380,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Master Firearm Techniques,
+        Icon				=	Firearm5,
+        SkillTrained 		= 	Aiming,
+        LvlSkillTrained 	= 	9,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+
+	item Reloading4
+    {
+        NumberOfPages		=	340,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Expert Reloading Techniques,
+        Icon				=	Reloading4,
+        SkillTrained 		= 	Reloading,
+        LvlSkillTrained 	= 	7,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+
+	item Reloading5
+    {
+        NumberOfPages		=	300,
+        Weight				=	0.8,
+        Type				=	Literature,
+        DisplayName			=	Master Reloading Techniques,
+        Icon				=	Reloading5,
+        SkillTrained 		= 	Reloading,
+        LvlSkillTrained 	= 	9,
+        NumLevelsTrained 	= 	2,
+        StaticModel 		= 	Book,
+        WorldStaticModel 	= 	BookYellowBrown_Ground,
+    }
+}
