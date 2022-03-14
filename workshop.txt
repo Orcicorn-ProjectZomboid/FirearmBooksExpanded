@@ -15,7 +15,9 @@ description=  [*]FireBook.Reloading4
 description=  [*]FireBook.Reloading5
 description=[/list]
 description=
-description=[quote][b]Tested and working in 41.66[/b][/quote]
+description=[quote][b]Tested and working in 41.68[/b][/quote]
+description=
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2779032669]Firearm Books: Sorted[/url] adds support for Exhilaratingly Organized Literature Mod
 description=
 description=Source: [url=https://github.com/Orcicorn-ProjectZomboid/FirearmBooksExpanded]Github[/url]
 tags=Build 41;Items;Literature
