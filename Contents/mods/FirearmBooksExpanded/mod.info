@@ -2,3 +2,4 @@ name=Firearm Books Expanded
 id=FireBookExpanded
 description=Adds Expert and Master firearm skill books
 poster=poster.png
+require=FireBook

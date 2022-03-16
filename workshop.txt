@@ -3,7 +3,7 @@ id=2775726413
 title=Firearm Books Expanded
 description=This mod adds in the Expert and Mastery books for Reloading and Aiming skills.
 description=
-description=Though it can be run as a stand alone modification, it is designed as a complimentary mod for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2634478805]Firearm Books[/url] which includes the Novice, Intermediate and Advanced books.
+description=Though it can technically be run as a stand alone modification, it is designed as a complimentary mod for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2634478805]Firearm Books[/url] which includes the Novice, Intermediate and Advanced books.
 description=
 description=The books can be found in Bookstores, Living Rooms, Crates, Gunstores and sometimes in Army supplies
 description=
@@ -18,7 +18,7 @@ description=
 description=[quote]
 description=Tested and working in 41.68 Single player
 description=Tested and workign in 41.68 Dedicated Multiplayer
-description=[b]Non-Functional in 41.68 Co-op Multiplayer[/b]
+description=Tested and working in 41.68 Co-op Multiplayer
 description=[/quote]
 description=
 description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2779032669]Firearm Books: Sorted[/url] adds support for Exhilaratingly Organized Literature Mod
