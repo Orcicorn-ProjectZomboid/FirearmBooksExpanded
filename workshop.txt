@@ -24,5 +24,8 @@ description=
 description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2779032669]Firearm Books: Sorted[/url] adds support for Exhilaratingly Organized Literature Mod
 description=
 description=Source: [url=https://github.com/Orcicorn-ProjectZomboid/FirearmBooksExpanded]Github[/url]
+description=
+description=[h1]Like what I'm doing?[/h1]
+description=[img]https://i.imgur.com/FTz9Qz9.gif[/img] [url=https://ko-fi.com/orcicorn][img]https://i.imgur.com/JiMht5i.png[/img][/url]
 tags=Build 41;Items;Literature
 visibility=public
