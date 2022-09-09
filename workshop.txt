@@ -16,9 +16,9 @@ description=  [*]FireBook.Reloading5
 description=[/list]
 description=
 description=[quote]
-description=Tested and working in 41.68 Single player
-description=Tested and workign in 41.68 Dedicated Multiplayer
-description=Tested and working in 41.68 Co-op Multiplayer
+description=Tested and working in 41.73 Single player
+description=Tested and workign in 41.73 Dedicated Multiplayer
+description=Tested and working in 41.73 Co-op Multiplayer
 description=[/quote]
 description=
 description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2779032669]Firearm Books: Sorted[/url] adds support for Exhilaratingly Organized Literature Mod
