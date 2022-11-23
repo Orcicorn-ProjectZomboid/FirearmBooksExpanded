@@ -1,0 +1,4 @@
+Tooltip_RU {
+    Tooltip_BookTitle_Aiming = "Курсы стрельбы",
+    Tooltip_BookTitle_Reloading = "Курсы перезарядки",
+}

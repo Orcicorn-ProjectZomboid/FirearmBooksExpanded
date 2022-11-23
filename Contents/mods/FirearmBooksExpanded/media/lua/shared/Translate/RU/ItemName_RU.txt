@@ -1,0 +1,6 @@
+ItemName_RU = {
+    ItemName_FireBook.Firearm4 = "Техники стрельбы эксперта",
+    ItemName_FireBook.Firearm5 = "Техники стрельбы мастера",
+    ItemName_FireBook.Reloading4 = "Техники перезарядки эксперта",
+    ItemName_FireBook.Reloading5 = "Техники перезарядки мастера",
+}
